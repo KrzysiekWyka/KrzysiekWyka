@@ -2,8 +2,8 @@
 
 - 🏠 Working remotely from Poland
 - 📚 Studing at University of Technology in Koszalin, Poland
-- 💬 Speaks in Polish (native) and English (B2)
-- 🏃‍♂️ Swimmer and roller skater
+- 💬 Speak in Polish (native) and English (B2)
+- 🏃‍ Swimmer and roller skater
 - ☁️ Serverless lover
 
 <p align="center">

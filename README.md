@@ -19,6 +19,5 @@
 </p>
 
 <p align="center">
-<a href="mailto:krzysztof@wyka.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/KrzysiekWyka/KrzysiekWyka/master/static/mail.svg" alt="krzysztof-wyka" height="30" width="30" /></a> 
 <a href="https://linkedin.com/in/krzysztof-wyka" target="blank"><img align="center" src="https://raw.githubusercontent.com/KrzysiekWyka/KrzysiekWyka/master/static/linkedin.svg" alt="linkedin" height="30" width="30" /></a>
 </p>

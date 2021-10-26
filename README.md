@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Chris</h1>
 
 - 🏠 Working remotely from Poland
-- 📚 Graduated from University of Technology in Koszalin, Poland
+- 📚 IT Engineer's degree
 - 💬 Speak in Polish (native) and English (B2)
 - 🏃‍ Swimmer and roller skater
 - ☁️ Serverless lover

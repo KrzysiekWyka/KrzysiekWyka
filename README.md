@@ -2,7 +2,7 @@
 
 - 🏠 Working remotely from Poland
 - 📚 IT Engineer's degree
-- 💬 Speak in Polish (native) and English (B2)
+- 💬 Speak Polish (native) and English (B2)
 - 🏃‍ Swimmer and roller skater
 - ☁️ Serverless lover
 
